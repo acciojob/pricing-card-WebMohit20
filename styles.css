@@ -1,1 +1,37 @@
 /*  your css code here. If applicable */
+*{
+	margin:0px;
+	padding:0px;
+}
+.container{
+	margin:10px;
+	padding:40px;
+	text-align:center;
+	background-color:lightgrey;
+	max-height:700px;
+	height:400px;
+	width:200px;
+	box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);;
+}
+img{
+	width:200px;
+	height:200px;
+}
+h1{
+	margin-bottom:15px;
+	margin-top:10px;
+}
+p{
+	font-size:17px;
+	padding:5px;
+	
+}
+button{
+	padding:10px;
+	margin:20px;
+	color:white;
+	background-color:lightpink;
+	border:none;
+	border-radius:10px;
+	font-size:20px;
+}
